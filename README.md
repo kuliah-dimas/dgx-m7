@@ -21,3 +21,6 @@ Download Manual
 Download via Github
 
 ```git clone https://github.com/kuliah-dimas/dgx-m7.git```
+
+Output Images:
+<img src="newimages.jpeg" width="500" title="Output Image">
